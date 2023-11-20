@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"example.com/m/v2/internal/handlers"
 	"github.com/gin-gonic/gin"
+	"github.com/gnatunstyles/voice-recognition/internal/handlers"
 )
 
 func InitRoutes(app *gin.Engine) {

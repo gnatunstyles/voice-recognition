@@ -1,8 +1,8 @@
 package main
 
 import (
-	"example.com/m/v2/internal/routes"
 	"github.com/gin-gonic/gin"
+	"github.com/gnatunstyles/voice-recognition/internal/routes"
 )
 
 func main() {

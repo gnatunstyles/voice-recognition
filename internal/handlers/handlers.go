@@ -2,9 +2,9 @@ package handlers
 
 import (
 	"fmt"
+	"github.com/gnatunstyles/voice-recognition/internal/transcriber"
 	"net/http"
 
-	"example.com/m/v2/internal/transcriber"
 	"github.com/gin-gonic/gin"
 )
 
